@@ -44,5 +44,5 @@ Execute the following systematic steps to deploy the smart contract with precisi
 
 ## Utilized Tutorial
 
-For an in-depth tutorial elucidating the nuances of smart contract deployment, we recommend referring to the insightful guide authored by Elan Halpern, titled "Hello World Smart Contract for Beginners."
+For an in-depth tutorial elucidating the nuances of smart contract deployment, we recommend referring to the insightful guide authored by Elan Halpern, titled ["Hello World Smart Contract for Beginners."] (https://medium.com/alchemy-api/hello-world-smart-contract-for-beginners-7a65cc4ae95f)
 
