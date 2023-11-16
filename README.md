@@ -10,7 +10,7 @@ Before initiating the smart contract deployment process, ensure that the followi
    - Explore [Example 1 for reference.](https://goerli-faucet.pk910.de/)
 
 2. **Alchemy Account Configuration:**
-   - Register an account on Alchemy, the pivotal infrastructure for Ethereum development.
+   - Register an account on [Alchemy](https://www.alchemy.com/), the pivotal infrastructure for Ethereum development.
    - Within Alchemy, create an application tailored for the Goerli testnet.
 
    *For comprehensive guidance on these prerequisites, please consult the tutorial provided at the end.*
@@ -44,5 +44,5 @@ Execute the following systematic steps to deploy the smart contract with precisi
 
 ## Utilized Tutorial
 
-For an in-depth tutorial elucidating the nuances of smart contract deployment, we recommend referring to the insightful guide authored by Elan Halpern, titled ["Hello World Smart Contract for Beginners."] (https://medium.com/alchemy-api/hello-world-smart-contract-for-beginners-7a65cc4ae95f)
+For an in-depth tutorial elucidating the nuances of smart contract deployment, we recommend referring to the insightful guide authored by Elan Halpern, titled ["Hello World Smart Contract for Beginners."](https://medium.com/alchemy-api/hello-world-smart-contract-for-beginners-7a65cc4ae95f)
 
